@@ -27,3 +27,5 @@ Do not move "pitagora.py" it is a module that I created,if you move it the progr
     3. Possible Commands > pitagora.ip(10,5),pitagora.C(10,5), pitagora.c(10,5)
 
     4. Save it in a var and print
+
+If you not understand, don't worry. You can copy from "Pitagora_Calculator.py".
