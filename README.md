@@ -19,7 +19,6 @@ Do not move "pitagora.py" it is a module that I created,if you move it the progr
 
 ---------------------------------------------
 
-    GUIDE:
 
     1. First import the module > import pitagora
 
